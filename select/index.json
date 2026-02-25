@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ユウレイ",
+  "base_artist": "まふまふ",
+  "createdAt": "2026-02-25T12:14:15.578328Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ユウレイ",
+      "artist": "まふまふ",
+      "has_synced": false,
+      "path": "select/pl_01_ユウレイ_まふまふ.txt"
+    }
+  ]
+}
